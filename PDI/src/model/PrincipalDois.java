@@ -56,6 +56,8 @@ public class PrincipalDois {
 //		}
 		
 		//System.out.println(histograma.size());
+		
+		
 	}
 
 }
